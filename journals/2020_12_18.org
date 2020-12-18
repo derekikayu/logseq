@@ -1,3 +1,5 @@
 #+TITLE: Dec 18th, 2020
 
-** OpenCL
+** Logseq & Roam research介紹
+*** Logseq介紹
+**** https://zhuanlan.zhihu.com/p/165657050
